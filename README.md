@@ -19,7 +19,7 @@ Este projeto foi criado para praticar lógica de programação com **Java**, uti
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação principal.
-- **Terminal/Console**: Para interação com o usuário.
+- **NetBeans**: Ambiente de desenvolvimento usado para escrever e executar o código.
 - **GitHub**: Para versionamento e compartilhamento do código.
 
 ---
