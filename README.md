@@ -1,23 +1,26 @@
-# Cálculo de Comissão de Vendas em Java
+# 📊 Cálculo de Comissão de Vendas em Java
 
 ## 📌 Descrição
-Este projeto foi desenvolvido como parte do curso técnico da **Etec**, utilizando a linguagem **Java**. O objetivo é praticar a lógica de programação, focando em estruturas de controle (`if`, `while`), operações matemáticas e interação com o console.
+Projeto simples em **Java**, desenvolvido para o curso técnico da **Etec**, que calcula a comissão de vendas de um vendedor. O usuário informa o valor total vendido e a quantidade de vendas realizadas. O sistema calcula e apresenta o valor final da comissão, aplicando um bônus se a meta for ultrapassada.
 
 ## 🚀 Funcionalidades
-- Solicita ao usuário o valor total vendido.
-- Solicita a quantidade de vendas realizadas.
-- Calcula a comissão base.
-- Aplica um bônus extra se a meta de quantidade de vendas for ultrapassada.
-- Retorna o valor final da comissão com ou sem bônus.
+- Solicita ao usuário:
+  - Valor total vendido
+  - Quantidade de vendas realizadas
+- Calcula a comissão base
+- Adiciona bônus extra automaticamente se a meta for atingida
+- Exibe a comissão final
+  - Se houver bônus, o programa informa
+  - Se não houver, apenas mostra o valor final
 
 ## 💻 Tecnologias utilizadas
 - Java
 
-## 🎯 Objetivo de aprendizagem
-Este projeto ajudou a praticar:
-- Estruturas de controle de fluxo (`if`, `while`).
-- Operações matemáticas.
-- Entrada e saída de dados via console.
+## 🎯 Objetivo de Aprendizagem
+Este projeto reforça:
+- Estruturas de controle (`if`, `while`)
+- Operações matemáticas básicas
+- Entrada e saída de dados pelo console
 
 ## 📂 Como executar
 1. Clone este repositório:
