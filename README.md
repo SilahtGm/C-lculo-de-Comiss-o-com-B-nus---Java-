@@ -1,2 +1,25 @@
-# C-lculo-de-Comiss-o-com-B-nus---Java-
-Programa em Java desenvolvido para o curso técnico da Etec. Calcula a comissão de vendas com bônus extra caso a meta de quantidade seja ultrapassada. O usuário informa o valor total vendido e a quantidade de vendas, e o sistema retorna a comissão final. Prática de if, while e console.
+# Cálculo de Comissão de Vendas em Java
+
+## 📌 Descrição
+Este projeto foi desenvolvido como parte do curso técnico da **Etec**, utilizando a linguagem **Java**. O objetivo é praticar a lógica de programação, focando em estruturas de controle (`if`, `while`), operações matemáticas e interação com o console.
+
+## 🚀 Funcionalidades
+- Solicita ao usuário o valor total vendido.
+- Solicita a quantidade de vendas realizadas.
+- Calcula a comissão base.
+- Aplica um bônus extra se a meta de quantidade de vendas for ultrapassada.
+- Retorna o valor final da comissão com ou sem bônus.
+
+## 💻 Tecnologias utilizadas
+- Java
+
+## 🎯 Objetivo de aprendizagem
+Este projeto ajudou a praticar:
+- Estruturas de controle de fluxo (`if`, `while`).
+- Operações matemáticas.
+- Entrada e saída de dados via console.
+
+## 📂 Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
