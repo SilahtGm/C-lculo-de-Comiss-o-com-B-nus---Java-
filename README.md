@@ -1,28 +1,38 @@
-# 📊 Cálculo de Comissão de Vendas em Java
+# 📊 Cálculo de Comissão de Vendas — Thalis Cleiton Sousa Cruz
 
-## 📌 Descrição
-Projeto simples em **Java**, desenvolvido para o curso técnico da **Etec**, que calcula a comissão de vendas de um vendedor. O usuário informa o valor total vendido e a quantidade de vendas realizadas. O sistema calcula e apresenta o valor final da comissão, aplicando um bônus se a meta for ultrapassada.
+Este repositório contém o código-fonte de um programa em **Java** desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas na **ETEC**. O objetivo é calcular a comissão de vendas, adicionando automaticamente um bônus extra quando a meta de quantidade é ultrapassada.
 
-## 🚀 Funcionalidades
-- Solicita ao usuário:
-  - Valor total vendido
-  - Quantidade de vendas realizadas
-- Calcula a comissão base
-- Adiciona bônus extra automaticamente se a meta for atingida
-- Exibe a comissão final
-  - Se houver bônus, o programa informa
-  - Se não houver, apenas mostra o valor final
+---
 
-## 💻 Tecnologias utilizadas
-- Java
+## 📌 Sobre o Programa
 
-## 🎯 Objetivo de Aprendizagem
-Este projeto reforça:
-- Estruturas de controle (`if`, `while`)
-- Operações matemáticas básicas
-- Entrada e saída de dados pelo console
+Este projeto foi criado para praticar lógica de programação com **Java**, utilizando estruturas de controle (`if`, `while`), operações matemáticas e entrada/saída de dados pelo console.
 
-## 📂 Como executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+### Funcionamento:
+- O usuário informa o **valor total das vendas** e a **quantidade de vendas realizadas**.
+- O sistema calcula a comissão base.
+- Se a meta de quantidade for ultrapassada, o programa adiciona o bônus e informa isso.
+- Caso contrário, mostra apenas o valor total da comissão calculada.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Java**: Linguagem de programação principal.
+- **Terminal/Console**: Para interação com o usuário.
+- **GitHub**: Para versionamento e compartilhamento do código.
+
+---
+
+## 📈 Status
+
+O projeto está finalizado para fins didáticos, mas pode receber melhorias, como tratamento de erros ou interface gráfica, em versões futuras.
+
+---
+
+## 🚀 Como Executar
+
+1️⃣ Clone este repositório:  
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
